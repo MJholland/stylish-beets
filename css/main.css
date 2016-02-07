@@ -1,23 +1,27 @@
-body {
+html {
   background-color: #c9b5ae;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
+  font-weight: normal;
+  line-height: normal;
 }
 
 h1 {
   color: #410f1a;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 header > nav > ol {
   list-style-type: none;
   font-weight: bold;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 a,
 a:link {
   color: #823638;
+  text-decoration: none;
 }
+
 a:hover {
   color: #410f1a;
   text-decoration: underline;
@@ -56,5 +60,5 @@ ul {
   list-style-type: circle;
 }
 
-font-family: 'PT Serif', serif;
-font-family: 'PT Sans', sans-serif;
+/* NOTE:  font-family: 'PT Serif', serif;
+          font-family: 'PT Sans', sans-serif; */
