@@ -1,0 +1,60 @@
+body {
+  background-color: #c9b5ae;
+  font-family: 'PT Serif', serif;
+}
+
+h1 {
+  color: #410f1a;
+  font-family: 'PT Sans', sans-serif;
+}
+
+header > nav > ol {
+  list-style-type: none;
+  font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+}
+
+a,
+a:link {
+  color: #823638;
+}
+a:hover {
+  color: #410f1a;
+  text-decoration: underline;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+}
+
+.subtitle {
+  font-weight: bold;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+ol {
+  list-style-type: lower-greek;
+}
+
+.serving {
+  font-style: italic;
+}
+
+dl > dt {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+font-family: 'PT Serif', serif;
+font-family: 'PT Sans', sans-serif;
